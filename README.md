@@ -20,6 +20,9 @@ This is one of my machine learning project, focused to classify vegetables based
 # Requirements
 This project use an external library such as pandas, numpy, tensorflow, keras, zipfile, and fastapi (library to create a REST API for python).
 
+# Datasets
+The datasets i used was from https://www.kaggle.com/datasets/misrakahmed/vegetable-image-dataset
+
 # How to Run 
 Before running this project, you need to train and save the machine learning model by running the train.py using this command:
 
