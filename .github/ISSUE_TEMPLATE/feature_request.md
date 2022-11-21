@@ -1,9 +1,9 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
+title: '[DATE]: [FEATURE]'
+labels: 'Tracking feature request'
+assignees: 'aliftech'
 
 ---
 
