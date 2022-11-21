@@ -128,7 +128,7 @@ trained_model = model.fit(
 )
 
 
-export_path = 'trained_model'
+export_path = 'vegetable_model'
 
 tf.keras.models.save_model(
     model,
